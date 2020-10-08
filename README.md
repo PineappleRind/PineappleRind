@@ -1,5 +1,5 @@
-# Hi there! I'm PineappleRind
-## I'm a frontend web developer from Canada
+# Hi there! 
+## I'm PineappleRind
 
 - I’m currently working on [@discordutilitybot](https://github.com/discordutilitybot/utilitybot) with [@FFlop](https://github.com/fflop) 🤖
 - I'm currently learning Python 🐍
