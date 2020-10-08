@@ -1,6 +1,7 @@
 # Hi there! 
 ## I'm PineappleRind
 
+- I'm a Canadian frontend web developer
 - I’m currently working on [@discordutilitybot](https://github.com/discordutilitybot/utilitybot) with [@FFlop](https://github.com/fflop) 🤖
 - I'm currently learning Python 🐍
 - I’m looking to collaborate on anything frontend 😄
