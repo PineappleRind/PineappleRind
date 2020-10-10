@@ -1,6 +1,6 @@
-## Links
+# Links
 
-Github #
-YouTube #
-Discord (pr#0215) #
-Email (pineapplerind.info@gmail.com)
+## Github
+## YouTube
+## Discord (pr#0215)
+## Email (pineapplerind.info@gmail.com)
