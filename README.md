@@ -1,10 +1,4 @@
-# Hi there! 
-## I'm PineappleRind
-
-- I'm a Canadian frontend web developer
-- I’m currently working on [@discordutilitybot](https://github.com/discordutilitybot/utilitybot) with [@FFlop](https://github.com/fflop)!!
-- I’m looking to collaborate on anything frontend 😄
-- [website](https://pineapplerind.github.io)
+# PineappleRind
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=pineapplerind&count_private=true&include_all_commits=true&theme=gradient)](https://github.com/pineapplerind)
 ##
