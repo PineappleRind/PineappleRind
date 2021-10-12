@@ -6,4 +6,4 @@
 # 
 [![PineappleRind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pineapplerind&theme=tokyonight&layout=compact)](https://github.com/pineapplerind)
 #
-[![PineappleRind's contribution chart](https://activity-graph.herokuapp.com/graph?username=pineapplerind&bg_color=000020&color=eeeeee&line=F87f5d&point=F8af9d&hide_border=true)](https://github.com/pineapplering)
+[![PineappleRind's contribution chart](https://activity-graph.herokuapp.com/graph?username=pineapplerind&bg_color=000020&color=eeeeee&line=F87f5d&point=F8af9d&hide_border=true)](https://github.com/pineapplerind)
