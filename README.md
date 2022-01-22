@@ -1,3 +1,9 @@
+# pineapplerind
+- webdev
+- fan of backdrop-filter
+- fan of svg backgrounds
+- humans are interesting
+#
 [![trophy](https://github-profile-trophy.vercel.app/?username=pineapplerind&theme=tokyonight&row=2&column=3&no-frame=true&margin-w=-1&margin-h=-1)](https://github.com/ryo-ma/github-profile-trophy)
 # 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=pineapplerind&count_private=true&include_all_commits=true&theme=tokyonight&hide-border=true)](https://github.com/pineapplerind)
