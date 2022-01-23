@@ -15,4 +15,4 @@
 [![PineappleRind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pineapplerind&theme=tokyonight&layout=compact)](https://github.com/pineapplerind)
 
 
-[![PineappleRind's contribution chart](https://activity-graph.herokuapp.com/graph?username=pineapplerind&bg_color=#1A1B27&color=eeeeee&line=F87f5d&point=F8af9d)](https://github.com/pineapplerind)
+[![PineappleRind's contribution chart](https://activity-graph.herokuapp.com/graph?username=pineapplerind&bg_color=1A1B27&color=eeeeee&line=F87f5d&point=F8af9d)](https://github.com/pineapplerind)
