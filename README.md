@@ -1,21 +1,7 @@
-# bio page :D
-## i'm
-- a human (i can click all the traffic lights!) 
-## i like
-- `backdrop-filter: blur()` & svg backgrounds
-- waves and curves (bezier, sine...) 
-- pineapple on pizza
-- you, *probably* ^^
-## i do not like
-- default microsoft fonts
-- disturbing the sleep of other humans
-- you, *improbably*
-## i also
-- make music (pineapplerind on your preferred service)
-- make fonts. sometimes
-- *bicycle*
-
-## some stats
+# links
+[site](https://pineapplerind.ga)
+music ([spotify](https://open.spotify.com/artist/1mxdLhD07JVKCqNvbzW3l0), [apple music](https://music.apple.com/artist/pineapplerind/1606851499), [youtube music](https://music.youtube.com/search?q=pineapplerind), [more](https://artists.landr.com/pr))
+# stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=pineapplerind&theme=tokyonight&row=2&column=3&no-frame=true&margin-w=-1&margin-h=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
