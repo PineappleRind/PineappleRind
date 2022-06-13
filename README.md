@@ -18,4 +18,6 @@ music ([spotify](https://open.spotify.com/artist/1mxdLhD07JVKCqNvbzW3l0), [apple
 [![PineappleRind's contribution chart](https://activity-graph.herokuapp.com/graph?username=pineapplerind&bg_color=1A1B27&color=eeeeee&line=F87f5d&point=F8af9d)](https://github.com/pineapplerind)
 
 # experience
-javascript 2y<br> css 2y<br> html 3y<br> typescript 6m <br> shell/bash 6m <br> swift 2w
+html **3y**<br>css **2y**<br>javascript **2y**<br>  server-side typescript & javascript **1y**<br> typescript **6m** <br> shell/bash **6m** <br> svelte 1m <br>swift **2w**
+
+*y=year — m=month — w=week*
