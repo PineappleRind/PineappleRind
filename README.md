@@ -1,5 +1,5 @@
 # links
-[site](https://pineapplerind.ga)
+[site](https://pineapplerind.xyz)
 
 music ([spotify](https://open.spotify.com/artist/1mxdLhD07JVKCqNvbzW3l0), [apple music](https://music.apple.com/artist/pineapplerind/1606851499), [youtube music](https://music.youtube.com/search?q=pineapplerind), [more](https://artists.landr.com/pr))
 # stats
