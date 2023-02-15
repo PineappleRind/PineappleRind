@@ -1,21 +1,43 @@
-<svg fill="none" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1000 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div>
-            <h1>PineappleRind</h1>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <!-- "PineappleRind"
+                .split("")
+                .map((el,i)=>
+                    `<span id="s${i}">${el}</span>`
+                )
+                .join("")
+            -->
+            <h1><span id="s0">P</span><span id="s1">i</span><span id="s2">n</span><span id="s3">e</span><span id="s4">a</span><span id="s5">p</span><span id="s6">p</span><span id="s7">l</span><span id="s8">e</span><span id="s9">R</span><span id="s10">i</span><span id="s11">n</span><span id="s12">d</span></h1>
             <style>
                 h1 {
+                    text-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
+                    width: 100%;
                     color: white;
-                    font-weight: 800;
-                    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-                    font-size: 35px;
                     text-align: center;
-                    padding: 40px 20px;
-                    border-radius: 20px;
-                    border: 1px solid rgba(255,255,255,0.2);
-                    text-shadow: 0 3px 6px rgba(0,0,0,0.2);
-                    box-shadow: 0 13px 19px -10px rgba(0,0,0,0.05);
-                    background: radial-gradient(circle at 75% 300%, rgba(240,100,0,0.4), transparent 60%);
+                    font-family: system-ui, sans-serif;
+                    font-weight: 800;
+                    font-size: 50px;
                 }
+
+                span {
+                    display: inline-block;
+                    translate: 0 -3px
+                }
+                
+                @keyframes span {
+                    50% {
+                        translate: 0 3px
+                    }
+                }
+            </style>
+            <!-- 
+            let out = ``
+            for (let i = 0; i < num; i++) 
+                out += (`#s${i}{animation: span 2s infinite 0.${(i+4)*5}s}`);
+            -->
+            <style>
+                #s0{animation: span 2s infinite 0.20s}#s1{animation: span 2s infinite 0.25s}#s2{animation: span 2s infinite 0.30s}#s3{animation: span 2s infinite 0.35s}#s4{animation: span 2s infinite 0.40s}#s5{animation: span 2s infinite 0.45s}#s6{animation: span 2s infinite 0.50s}#s7{animation: span 2s infinite 0.55s}#s8{animation: span 2s infinite 0.60s}#s9{animation: span 2s infinite 0.65s}#s10{animation: span 2s infinite 0.70s}#s11{animation: span 2s infinite 0.75s}#s12{animation: span 2s infinite 0.80s}
             </style>
         </div>
     </foreignObject>
