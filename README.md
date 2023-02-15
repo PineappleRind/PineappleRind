@@ -1,16 +1,5 @@
 <center><h1><pre align="center">PineappleRind</pre></h1></center>
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-      <h1>PineappleRind</h1>
-      <style>
-        h1 {text-align: center;padding: 20px;border-radius:20px}
-      </style>
-    </div>
-  </foreignObject>
-</svg>
-
 <details>
   <summary><code><i>links</i></code></summary>
   <a href="https://pineapplerind.xyz">my website</a>
