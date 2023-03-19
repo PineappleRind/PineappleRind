@@ -23,7 +23,7 @@
   <i>I use the following languages actively</i><br>
   <ul>
     <li>html <b>3y</b></li>
-    <li>css <b>2y</b></li>
+    <li>css <b>3y</b></li>
     <li>javascript (including node.js) <b>2y</b></li>
   </ul>
   <i>I use the following languages on and off</i><br>
