@@ -25,6 +25,7 @@
     <li>html <b>3y</b></li>
     <li>css <b>3y</b></li>
     <li>javascript (including node.js) <b>2y</b></li>
+    <li>typescript <b>1y</b></li>
   </ul>
   <i>I use the following languages on and off</i><br>
   <ul>
