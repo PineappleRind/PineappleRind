@@ -11,18 +11,20 @@
             <h1><span id="s0">P</span><span id="s1">i</span><span id="s2">n</span><span id="s3">e</span><span id="s4">a</span><span id="s5">p</span><span id="s6">p</span><span id="s7">l</span><span id="s8">e</span><span id="s9">R</span><span id="s10">i</span><span id="s11">n</span><span id="s12">d</span></h1>
             <style>
                 h1 {
-                    text-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
+                    text-shadow: 0 5px 6px rgba(0,0,0,0.5);
                     width: 100%;
                     color: white;
                     text-align: center;
-                    font-family: system-ui, sans-serif;
+                    font-family: Inter, system-ui, sans-serif;
                     font-weight: 800;
                     font-size: 50px;
                 }
 
                 span {
                     display: inline-block;
-                    translate: 0 -3px
+                    translate: 0 -3.1px;
+                    will-change: translate;
+                    letter-spacing:-0.05em
                 }
                 
                 @keyframes span {
@@ -37,7 +39,7 @@
                 out += (`#s${i}{animation: span 2s infinite 0.${(i+4)*5}s}`);
             -->
             <style>
-                #s0{animation: span 2s infinite 0.20s}#s1{animation: span 2s infinite 0.25s}#s2{animation: span 2s infinite 0.30s}#s3{animation: span 2s infinite 0.35s}#s4{animation: span 2s infinite 0.40s}#s5{animation: span 2s infinite 0.45s}#s6{animation: span 2s infinite 0.50s}#s7{animation: span 2s infinite 0.55s}#s8{animation: span 2s infinite 0.60s}#s9{animation: span 2s infinite 0.65s}#s10{animation: span 2s infinite 0.70s}#s11{animation: span 2s infinite 0.75s}#s12{animation: span 2s infinite 0.80s}
+                div{background:linear-gradient(to bottom right,#ff4800 -70%,white 70%);height:100%;display:flex;align-items:center;justify-content:center;border-radius:40px}#s0{animation: span 2s infinite 0.20s}#s1{animation: span 2s infinite 0.25s}#s2{animation: span 2s infinite 0.30s}#s3{animation: span 2s infinite 0.35s}#s4{animation: span 2s infinite 0.40s}#s5{animation: span 2s infinite 0.45s}#s6{animation: span 2s infinite 0.50s}#s7{animation: span 2s infinite 0.55s}#s8{animation: span 2s infinite 0.60s}#s9{animation: span 2s infinite 0.65s}#s10{animation: span 2s infinite 0.70s}#s11{animation: span 2s infinite 0.75s}#s12{animation: span 2s infinite 0.80s}
             </style>
         </div>
     </foreignObject>

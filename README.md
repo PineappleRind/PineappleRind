@@ -1,4 +1,4 @@
-<center><h1><pre align="center">PineappleRind</pre></h1></center>
+<img src="header.svg">
 
 <details>
   <summary><code><h3><i>links</h3></i></code></summary>
