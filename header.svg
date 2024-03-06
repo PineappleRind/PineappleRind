@@ -22,9 +22,9 @@
 
                 span {
                     display: inline-block;
-                    translate: 0 -3.1px;
-                    will-change: translate;
-                    letter-spacing:-0.05em
+                    will-change: transform;  
+                    translate: 0 -3.12px;
+                    letter-spacing: -0.05em;
                 }
                 
                 @keyframes span {
@@ -39,7 +39,8 @@
                 out += (`#s${i}{animation: span 2s infinite 0.${(i+4)*5}s}`);
             -->
             <style>
-                div{background:linear-gradient(to bottom right,#ff4800 -70%,Canvas 70%);height:100%;display:flex;align-items:center;justify-content:center;border-radius:40px}#s0{animation: span 2s infinite 0.20s}#s1{animation: span 2s infinite 0.25s}#s2{animation: span 2s infinite 0.30s}#s3{animation: span 2s infinite 0.35s}#s4{animation: span 2s infinite 0.40s}#s5{animation: span 2s infinite 0.45s}#s6{animation: span 2s infinite 0.50s}#s7{animation: span 2s infinite 0.55s}#s8{animation: span 2s infinite 0.60s}#s9{animation: span 2s infinite 0.65s}#s10{animation: span 2s infinite 0.70s}#s11{animation: span 2s infinite 0.75s}#s12{animation: span 2s infinite 0.80s}
+                div{background:linear-gradient(to bottom right,#ff4800 -70%,black 100%);height:100%;display:flex;align-items:center;justify-content:center;border-radius:40px}#s0{animation: span 2s infinite 0.20s}#s1{animation: span 2s infinite 0.25s}#s2{animation: span 2s infinite 0.30s}#s3{animation: span 2s infinite 0.35s}#s4{animation: span 2s infinite 0.40s}#s5{animation: span 2s infinite 0.45s}#s6{animation: span 2s infinite 0.50s}#s7{animation: span 2s infinite 0.55s}#s8{animation: span 2s infinite 0.60s}#s9{animation: span 2s infinite 0.65s}#s10{animation: span 2s infinite 0.70s}#s11{animation: span 2s infinite 0.75s}#s12{animation: span 2s infinite 0.80s}
+                @media (prefers-color-scheme:dark) {div{background:linear-gradient(to bottom right,#ff4800 -70%,rgba(0,0,0,0.2) 90%)}
             </style>
         </div>
     </foreignObject>
