@@ -6,4 +6,4 @@
 <br/>
 <a href="https://pineapplerind.xyz">pineapplerind.xyz</a>
 
-Lately, a lot of my work is stored in local Git repositories. 🐇
+A lot of my work lately is stored in local Git repositories. 🐇
