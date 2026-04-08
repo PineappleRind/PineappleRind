@@ -12,4 +12,4 @@
 
 A lot of my work lately is stored in local Git repositories.
 
-<i><sup>*i.e.*, in the year of our Lord 2025 🐇</sup></i>
+<i><sup>*i.e.*, in the year of our Lord 2026 🐇</sup></i>
